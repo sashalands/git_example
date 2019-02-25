@@ -10,4 +10,7 @@ def ask():
 def good_bye():
 	return 'Goodbye motherfucker'
 
+def singer():
+	return 'AaaaaaaAaAAAAaaAaaAAAaaAAAAAAAAAAAAAAAAAA'
+
 print('keker')
